@@ -22,7 +22,9 @@ namespace ExProperties
 
         public string? Kuerzel
         {
-            get { return Zuname?.ToUpper().Substring(0, 3) ?? ""; }
+            get { return Zuname?.ToUpper()?.Substring(0, 3) ?? ""; }
+            //get { return Zuname?.ToUpper()?[..3] ?? ""; }
+            //get { return Zuname?.ToUpper()?[new Index(2, new Index(3))] ?? ""; }
         }
 
         public decimal Nettogehalt

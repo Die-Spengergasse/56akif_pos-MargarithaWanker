@@ -18,7 +18,6 @@ namespace Spg_Shopify.Domain.Model
         public string Address { get; set; } = string.Empty;
         public DateTime RegistrationDateTime { get; set; }
         public string PasswordHash { get; set; } = string.Empty;
-
         public List<ShoppingCart> ShoppingCarts { get; set; } = new();
     }
 }

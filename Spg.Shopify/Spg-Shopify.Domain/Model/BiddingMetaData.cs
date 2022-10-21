@@ -8,6 +8,7 @@ namespace Spg_Shopify.Domain.Model
 {
     public class BiddingMetaData
     {
+        public int Id { get; set; } 
         public string LastModifiedBy { get; set; } = string.Empty;
         public DateTime LastModifiedWhen { get; set; } 
         public string Status { get; set; } = string.Empty;

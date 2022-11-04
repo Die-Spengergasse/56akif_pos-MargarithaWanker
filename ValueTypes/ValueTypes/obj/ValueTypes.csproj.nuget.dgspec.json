@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HTL\\56AKIF\\POS\\ValueTypes\\ValueTypes\\ValueTypes.csproj": {}
+    "C:\\HTL\\56AKIF\\POS\\56akif_pos-MargarithaWanker\\ValueTypes\\ValueTypes\\ValueTypes.csproj": {}
   },
   "projects": {
-    "C:\\HTL\\56AKIF\\POS\\ValueTypes\\ValueTypes\\ValueTypes.csproj": {
+    "C:\\HTL\\56AKIF\\POS\\56akif_pos-MargarithaWanker\\ValueTypes\\ValueTypes\\ValueTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HTL\\56AKIF\\POS\\ValueTypes\\ValueTypes\\ValueTypes.csproj",
+        "projectUniqueName": "C:\\HTL\\56AKIF\\POS\\56akif_pos-MargarithaWanker\\ValueTypes\\ValueTypes\\ValueTypes.csproj",
         "projectName": "ValueTypes",
-        "projectPath": "C:\\HTL\\56AKIF\\POS\\ValueTypes\\ValueTypes\\ValueTypes.csproj",
+        "projectPath": "C:\\HTL\\56AKIF\\POS\\56akif_pos-MargarithaWanker\\ValueTypes\\ValueTypes\\ValueTypes.csproj",
         "packagesPath": "C:\\Users\\mw\\.nuget\\packages\\",
-        "outputPath": "C:\\HTL\\56AKIF\\POS\\ValueTypes\\ValueTypes\\obj\\",
+        "outputPath": "C:\\HTL\\56AKIF\\POS\\56akif_pos-MargarithaWanker\\ValueTypes\\ValueTypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mw\\AppData\\Roaming\\NuGet\\NuGet.Config",

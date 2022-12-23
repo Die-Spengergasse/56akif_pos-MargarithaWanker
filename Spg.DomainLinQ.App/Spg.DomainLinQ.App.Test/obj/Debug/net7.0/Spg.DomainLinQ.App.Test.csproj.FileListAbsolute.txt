@@ -1,0 +1,6 @@
+C:\HTL\56AKIF\POS\56akif_pos-MargarithaWanker\Spg.DomainLinQ.App\Spg.DomainLinQ.App.Test\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\HTL\56AKIF\POS\56akif_pos-MargarithaWanker\Spg.DomainLinQ.App\Spg.DomainLinQ.App.Test\obj\Debug\net7.0\Spg.DomainLinQ.App.Test.csproj.AssemblyReference.cache
+C:\HTL\56AKIF\POS\56akif_pos-MargarithaWanker\Spg.DomainLinQ.App\Spg.DomainLinQ.App.Test\obj\Debug\net7.0\Spg.DomainLinQ.App.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\56AKIF\POS\56akif_pos-MargarithaWanker\Spg.DomainLinQ.App\Spg.DomainLinQ.App.Test\obj\Debug\net7.0\Spg.DomainLinQ.App.Test.AssemblyInfoInputs.cache
+C:\HTL\56AKIF\POS\56akif_pos-MargarithaWanker\Spg.DomainLinQ.App\Spg.DomainLinQ.App.Test\obj\Debug\net7.0\Spg.DomainLinQ.App.Test.AssemblyInfo.cs
+C:\HTL\56AKIF\POS\56akif_pos-MargarithaWanker\Spg.DomainLinQ.App\Spg.DomainLinQ.App.Test\obj\Debug\net7.0\Spg.DomainLinQ.App.Test.csproj.CoreCompileInputs.cache

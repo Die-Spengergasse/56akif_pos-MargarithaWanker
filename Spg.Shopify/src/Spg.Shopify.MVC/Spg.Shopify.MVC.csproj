@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Spg-Shopify.Domain\Spg.Shopify.Domain.csproj" />
+    <ProjectReference Include="..\Spg.Shopify.Application\Spg.Shopify.Application.csproj" />
+  </ItemGroup>
+
+</Project>

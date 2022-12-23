@@ -13,6 +13,6 @@ namespace Spg_Shopify.Domain.Model
         public DateTime LastModifiedWhen { get; set; } 
         public string Status { get; set; } = string.Empty;
 
-        
+        public BiddingMetaData() { }
     }
 }
